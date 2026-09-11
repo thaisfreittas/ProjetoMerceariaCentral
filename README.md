@@ -38,6 +38,7 @@ Publicado no site da PudCria com o nome da equipe *(link aqui)*.
 ```
 
 📸 Preview
+
 <img width="1366" height="768" alt="{0880AEAD-A0E4-4839-92C7-251A25533567}" src="https://github.com/user-attachments/assets/a2d2c0e9-05d6-45c7-a1e0-51d823718c09" />
 
 
